@@ -6,7 +6,7 @@ I'm a Full Stack Developer from  **Ankara, Turkey** <img src="https://raw.github
 
 I'm a big fan of <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/starwars.png" width="70" /> and <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/lotr.png" width="120" />
 
-My favorite TV Series <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/poi.png" width="120" />
+My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/poi.png" width="120" />
 
 ### Working with...
 
@@ -25,6 +25,3 @@ My favorite TV Series <img src="https://raw.githubusercontent.com/hgunay/hgunay/
 #### Databases
 
 <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/mssql.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/postgresql.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/mongo.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/redis.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/elasticsearch.png" width="40" />
-
-
-  
