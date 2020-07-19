@@ -29,3 +29,5 @@ My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hgunay.hgunay)
