@@ -4,7 +4,9 @@
 
 I'm a Full Stack Developer from  **Ankara, Turkey** <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/turkiye.png" width="20" />
 
-I'm a big fan of <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/starwars.png" width="70" /> and <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/lotr.png" width="100" />
+I'm a big fan of <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/starwars.png" width="70" /> and <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/lotr.png" width="120" />
+
+My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/poi.png" width="120" />
 
 ### Working with...
 
@@ -24,5 +26,6 @@ I'm a big fan of <img src="https://raw.githubusercontent.com/hgunay/hgunay/maste
 
 <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/mssql.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/postgresql.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/mongo.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/redis.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/elasticsearch.png" width="40" />
 
-
-  
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
