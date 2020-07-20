@@ -4,6 +4,10 @@
 
 I'm a Full Stack Developer from  **Ankara, Turkey** <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/turkiye.png" width="20" />
 
+I'm currently :computer: as a Senior Software Developer **[@Akakace.com](https://www.akakce.com)**
+
+I :heart: **Clean Code** 
+
 I'm a big fan of <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/starwars.png" width="70" /> and <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/lotr.png" width="120" />
 
 My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/poi.png" width="120" />
