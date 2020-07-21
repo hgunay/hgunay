@@ -41,4 +41,4 @@ JSON        9 mins              █░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hgunay)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hgunay)
