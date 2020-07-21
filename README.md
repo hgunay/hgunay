@@ -40,3 +40,5 @@ C#          38 mins             ██████░░░░░░░░░░
 JSON        9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
 ```
 <!--END_SECTION:waka-->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hgunay)
