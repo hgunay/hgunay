@@ -16,19 +16,38 @@ My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay
 
 #### Tools
 
-<img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/vs.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/vscode.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/azure.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/docker.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/git.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/github.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/jetbrains.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/telerik.png" width="40" />
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=fff)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=Microsoft%20Azure&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=fff)
+![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=fff)
+![JetBrains](https://img.shields.io/badge/-Jetbrains-000000?style=flat&logo=Jetbrains&logoColor=fff)
+
+<img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/telerik.png" width="40" />
 
 #### Back-End
 
-<img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/csharp.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/python.png" width="40" />
+![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
 
 #### Front-End
 
-<img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/html.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/css.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/javascript.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/bootstrap.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/angular.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/typescript.png" width="40" /> 
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=html5)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=fff)
 
 #### Databases
 
-<img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/mssql.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/postgresql.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/mongo.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/redis.png" width="40" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/elasticsearch.png" width="40" />
+![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
+![Mongo](https://img.shields.io/badge/-Mongo-47A248?style=flat&logo=Mongodb&logoColor=fff)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=fff)
+![Elastic](https://img.shields.io/badge/-Elastic%20Search-005571?style=flat&logo=ElasticSearch&logoColor=fff)
+
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
@@ -41,5 +60,7 @@ JSON    7 mins          ▒░░░░░░░░░░░░░░░░░�
 Other   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 <!--END_SECTION:waka-->
+
+![Hakan's github stats](https://github-readme-stats.vercel.app/api?username=hgunay&show_icons=true&theme=nightowl)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hgunay)
