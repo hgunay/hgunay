@@ -37,17 +37,17 @@ My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay
 
 #### Front-End
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=html5)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=fff)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=fff)
 
 #### Databases
 
 ![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![Mongo](https://img.shields.io/badge/-Mongo-47A248?style=flat&logo=Mongodb&logoColor=fff)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=fff)
 ![Elastic](https://img.shields.io/badge/-Elastic%20Search-005571?style=flat&logo=ElasticSearch&logoColor=fff)
