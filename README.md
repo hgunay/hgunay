@@ -1,6 +1,8 @@
 ## Hi there, I am Hakan 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgunay/)](https://www.linkedin.com/in/hgunay/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@hakangunay)](https://medium.com/@hakangunay) [![GitHub Follow Badge](https://img.shields.io/github/followers/hgunay?label=follow&style=social)](https://github.com/hgunay)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgunay/)](https://www.linkedin.com/in/hgunay/) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@hakangunay)](https://medium.com/@hakangunay) 
+[![GitHub Follow Badge](https://img.shields.io/github/followers/hgunay?label=follow&style=social)](https://github.com/hgunay)
 
 I'm a Full Stack Developer from  **Ankara, Turkey** <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/turkiye.png" width="20" />
 
@@ -24,7 +26,9 @@ My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay
 ![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=fff)
 ![JetBrains](https://img.shields.io/badge/-Jetbrains-000000?style=flat&logo=Jetbrains&logoColor=fff)
 
+<!--
 <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/telerik.png" width="40" />
+-->
 
 #### Back-End
 
@@ -47,7 +51,6 @@ My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay
 ![Mongo](https://img.shields.io/badge/-Mongo-47A248?style=flat&logo=Mongodb&logoColor=fff)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=fff)
 ![Elastic](https://img.shields.io/badge/-Elastic%20Search-005571?style=flat&logo=ElasticSearch&logoColor=fff)
-
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
