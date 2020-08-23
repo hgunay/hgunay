@@ -54,7 +54,7 @@ My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 14 August, 2020 - 21 August, 2020
+Week: 15 August, 2020 - 22 August, 2020
 
 C#      5 hrs 19 mins   ████████████████████████▒   97.32 % 
 Text    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
