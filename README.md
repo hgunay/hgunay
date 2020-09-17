@@ -61,5 +61,6 @@ C#   58 mins         ███████████████████�
 <!--END_SECTION:waka-->
 
 ![Hakan's github stats](https://github-readme-stats.vercel.app/api?username=hgunay&show_icons=true&theme=nightowl)
+![Hakan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgunay&layout=compact&theme=nightowl)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hgunay)
