@@ -31,7 +31,7 @@ My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay
 ![JetBrains](https://img.shields.io/badge/-Jetbrains-000000?style=flat&logo=Jetbrains&logoColor=fff)
 ![Telerik](https://img.shields.io/badge/-Telerik-5ce500?style=flat&logoColor=fff)
 <br>
-![Toggl](https://img.shields.io/badge/-Jetbrains-E01B22?style=flat&logo=Toggl&logoColor=fff)
+![Toggl](https://img.shields.io/badge/-Toggl-E01B22?style=flat&logo=Toggl&logoColor=fff)
 
 #### Back-End
 
