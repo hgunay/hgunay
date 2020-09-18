@@ -31,7 +31,9 @@ My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay
 ![JetBrains](https://img.shields.io/badge/-Jetbrains-000000?style=flat&logo=Jetbrains&logoColor=fff)
 ![Telerik](https://img.shields.io/badge/-Telerik-5ce500?style=flat&logoColor=fff)
 <br>
+![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat&logo=Firefox&logoColor=fff)
 ![Toggl](https://img.shields.io/badge/-Toggl-E01B22?style=flat&logo=Toggl&logoColor=fff)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=fff)
 
 #### Back-End
 
@@ -56,6 +58,14 @@ My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay
 ![Mongo](https://img.shields.io/badge/-Mongo-47A248?style=flat&logo=Mongodb&logoColor=fff)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=fff)
 ![Elastic](https://img.shields.io/badge/-Elastic%20Search-005571?style=flat&logo=ElasticSearch&logoColor=fff)
+
+#### Environment
+
+![AMD](https://img.shields.io/badge/--ED1C24?style=flat&logo=AMD&logoColor=fff&logoWidth=40)
+![Asus](https://img.shields.io/badge/--000000?style=flat&logo=Asus&logoColor=fff&logoWidth=40)
+![Samsung](https://img.shields.io/badge/--1428A0?style=flat&logo=Samsung&logoColor=fff&logoWidth=40)
+
+
 
 
 📊 **This week I spent my time on**
