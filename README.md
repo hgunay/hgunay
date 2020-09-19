@@ -61,15 +61,7 @@ My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay
 
 #### Environment
 
-<!--
-![Asus](https://img.shields.io/badge/--000000?style=flat&logo=Asus&logoColor=fff&logoWidth=40)
-![Samsung](https://img.shields.io/badge/--1428A0?style=flat&logo=Samsung&logoColor=fff&logoWidth=40)
--->
-
-<img src="https://simpleicons.org/icons/amd.svg" height="50px">
-<img src="https://simpleicons.org/icons/asus.svg" height="50px">
-
-
+<img src="https://simpleicons.org/icons/amd.svg" height="50px">&nbsp;<img src="https://simpleicons.org/icons/asus.svg" height="50px">
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
