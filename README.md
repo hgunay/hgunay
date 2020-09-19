@@ -66,7 +66,8 @@ My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay
 ![Samsung](https://img.shields.io/badge/--1428A0?style=flat&logo=Samsung&logoColor=fff&logoWidth=40)
 -->
 
-<img src="https://simpleicons.org/icons/amd.svg" style="height: 90px; fill: #fff;">
+<img src="https://simpleicons.org/icons/amd.svg" height="50px">
+<img src="https://simpleicons.org/icons/asus.svg" height="50px">
 
 
 
