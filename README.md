@@ -61,10 +61,12 @@ My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay
 
 #### Environment
 
-![AMD](https://img.shields.io/badge/--ED1C24?style=flat&logo=AMD&logoColor=fff&logoWidth=40)
+<!--
 ![Asus](https://img.shields.io/badge/--000000?style=flat&logo=Asus&logoColor=fff&logoWidth=40)
 ![Samsung](https://img.shields.io/badge/--1428A0?style=flat&logo=Samsung&logoColor=fff&logoWidth=40)
+-->
 
+<img src="https://simpleicons.org/icons/amd.svg" style="height: 90px; fill: #fff;">
 
 
 
