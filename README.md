@@ -1,9 +1,7 @@
 ## Hi there, I am Hakan 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgunay/)](https://www.linkedin.com/in/hgunay/)&nbsp;
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@hakangunay)](https://medium.com/@hakangunay)&nbsp;
-[![GitHub Follow Badge](https://img.shields.io/github/followers/hgunay?label=follow&style=social)](https://github.com/hgunay)&nbsp;
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=hgunay)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@hakangunay)](https://medium.com/@hakangunay)
 
 I'm a Full Stack Developer from  **Ankara, Turkey** <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/turkiye.png" width="20" />
 
@@ -80,3 +78,5 @@ C#   58 mins         ███████████████████�
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hgunay&theme=dracula"/>
 </p>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hgunay)
