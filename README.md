@@ -31,6 +31,7 @@ My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay
 ![Telerik](https://img.shields.io/badge/-Telerik-5ce500?style=flat-square&logoColor=fff)
 <br>
 ![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=fff)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=fff)
 ![Toggl](https://img.shields.io/badge/-Toggl-E01B22?style=flat-square&logo=Toggl&logoColor=fff)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=fff)
 
