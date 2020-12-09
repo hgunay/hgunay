@@ -6,7 +6,7 @@
 
 I'm a Full Stack Developer from  **Ankara, Turkey** <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/turkiye.png" width="20" />
 
-I'm currently :computer: as a Senior Software Developer **[@Akakce.com](https://www.akakce.com)**
+I'm currently :computer: as a Senior Software Developer
 
 I :heart: **Clean Code** 
 
