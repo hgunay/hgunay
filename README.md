@@ -66,11 +66,7 @@ My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 01 December, 2020 - 08 December, 2020
-
-C#      5 mins          ████████████▓░░░░░░░░░░░░   50.29 % 
-Text    3 mins          ███████▒░░░░░░░░░░░░░░░░░   28.89 % 
-Other   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
