@@ -28,7 +28,7 @@ My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay
 ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=fff)
 <br>
 ![JetBrains](https://img.shields.io/badge/-Jetbrains-000000?style=flat-square&logo=Jetbrains&logoColor=fff)
-![Telerik](https://img.shields.io/badge/-Telerik-5ce500?style=flat-square&logoColor=fff)
+![Telerik](https://img.shields.io/badge/-Progress-5CE500?style=flat-squarelogo=Progress&logoColor=000)
 <br>
 ![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=fff)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=fff)
