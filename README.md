@@ -60,7 +60,7 @@ My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay
 
 #### Environment
 
-<img src="https://simpleicons.org/icons/Corsair.svg" height="50px"><br>
+<img src="https://simpleicons.org/icons/corsair.svg" height="50px"><br>
 <img src="https://simpleicons.org/icons/amd.svg" height="50px"><br>
 <img src="https://simpleicons.org/icons/asus.svg" height="50px">
 
