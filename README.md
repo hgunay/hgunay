@@ -67,7 +67,7 @@ My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 15 February, 2021 - 22 February, 2021
+Week: 16 February, 2021 - 23 February, 2021
 
 C#     1 hr 30 mins    ████████████████████████░   96.36 % 
 JSON   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
