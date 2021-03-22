@@ -12,27 +12,18 @@ I :heart: **Clean Code**
 
 <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/starwars.png" width="70" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/lotr.png" width="120" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/poi.png" width="120" />
 
-<!--
-I'm a big fan of <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/starwars.png" width="70" /> and <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/lotr.png" width="120" />
---><!--
-My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/poi.png" width="120" />
--->
 ### Working with...
 
 #### Tools
 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=fff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff)
-<br>
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=Microsoft%20Azure&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
-<br>
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff)
 ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=fff)
-<br>
 ![JetBrains](https://img.shields.io/badge/-Jetbrains-000000?style=flat-square&logo=Jetbrains&logoColor=fff)
 ![Telerik](https://img.shields.io/badge/-Telerik-5CE500?style=flat-square&logo=Progress&logoColor=000)
-<br>
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=fff)
 ![Toggl](https://img.shields.io/badge/-Toggl-E01B22?style=flat-square&logo=Toggl&logoColor=fff)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=fff)
@@ -47,7 +38,6 @@ My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=fff)
-<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=fff)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=fff)
@@ -56,7 +46,6 @@ My favorite TV Show is <img src="https://raw.githubusercontent.com/hgunay/hgunay
 
 ![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-<br>
 ![Mongo](https://img.shields.io/badge/-Mongo-47A248?style=flat-square&logo=Mongodb&logoColor=fff)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
 ![Elastic](https://img.shields.io/badge/-Elastic%20Search-005571?style=flat-square&logo=ElasticSearch&logoColor=fff)
