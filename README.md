@@ -10,7 +10,7 @@ I'm currently :computer: as a Senior Software Developer
 
 I :heart: **Clean Code** 
 
-<img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/starwars.png" width="70" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/lotr.png" width="120" /> <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/poi.png" width="120" />
+<img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/starwars.png" width="70" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/lotr.png" width="120" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/poi.png" width="120" />
 
 <!--
 I'm a big fan of <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/starwars.png" width="70" /> and <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/lotr.png" width="120" />
