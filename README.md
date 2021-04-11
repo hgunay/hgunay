@@ -59,10 +59,7 @@ I :heart: **Clean Code**
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 02 April, 2021 - 09 April, 2021
-
-C#      50 mins         ███████████████████████░░   92.41 % 
-Other   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
