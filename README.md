@@ -2,7 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/hgunay/)](https://www.linkedin.com/in/hgunay/)&nbsp;
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=fff&link=https://medium.com/@hakangunay)](https://medium.com/@hakangunay)&nbsp;
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=fff&link=https://www.instagram.com/hg.codes/)](https://www.instagram.com/hg.codes/)&nbsp;
 
 I'm a Full Stack Developer and Team Leader from **Ankara, Turkey** <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/turkiye.png" width="20" />
 
