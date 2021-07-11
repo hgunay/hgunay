@@ -56,7 +56,7 @@ I :heart: **Clean Code**
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 03 July, 2021 - 09 July, 2021
+Week: 04 July, 2021 - 10 July, 2021
 
 JavaScript   5 hrs 54 mins   ███████████▓░░░░░░░░░░░░░   47.25 % 
 Other        4 hrs 31 mins   █████████░░░░░░░░░░░░░░░░   36.29 % 
