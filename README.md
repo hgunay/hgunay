@@ -56,7 +56,7 @@ I :heart: **Clean Code**
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 08 August, 2021 - 14 August, 2021
+Week: 09 August, 2021 - 15 August, 2021
 
 Other        3 hrs 18 mins   ███████████▓░░░░░░░░░░░░░   46.03 % 
 C#           2 hrs 36 mins   █████████░░░░░░░░░░░░░░░░   36.16 % 
