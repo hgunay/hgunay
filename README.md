@@ -32,6 +32,7 @@ I :heart: **Clean Code**
 
 #### Front-End
 
+![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=Blazor&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=fff)
@@ -42,7 +43,7 @@ I :heart: **Clean Code**
 #### Databases
 
 ![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=fff)
 ![Mongo](https://img.shields.io/badge/-Mongo-47A248?style=flat-square&logo=Mongodb&logoColor=fff)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
 ![Elastic](https://img.shields.io/badge/-Elastic%20Search-005571?style=flat-square&logo=ElasticSearch&logoColor=fff)
