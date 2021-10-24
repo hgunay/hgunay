@@ -57,7 +57,7 @@ I :heart: **Clean Code**
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 16 October, 2021 - 22 October, 2021
+Week: 17 October, 2021 - 23 October, 2021
 
 C#       5 hrs 3 mins    ████████▓░░░░░░░░░░░░░░░░   35.07 % 
 Blazor   4 hrs 52 mins   ████████▒░░░░░░░░░░░░░░░░   33.72 % 
