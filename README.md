@@ -57,7 +57,7 @@ I :heart: **Clean Code**
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 30 October, 2021 - 05 November, 2021
+Week: 31 October, 2021 - 06 November, 2021
 
 JavaScript   2 hrs 55 mins   ████████▓░░░░░░░░░░░░░░░░   34.11 % 
 Blazor       1 hr 40 mins    █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
