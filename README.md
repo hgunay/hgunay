@@ -18,6 +18,7 @@ I :heart: **Clean Code**
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=Microsoft%20Azure&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff)
+
 ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=fff)
 ![JetBrains](https://img.shields.io/badge/-Jetbrains-000000?style=flat-square&logo=Jetbrains&logoColor=fff)
 ![Telerik](https://img.shields.io/badge/-Telerik-5CE500?style=flat-square&logo=Progress&logoColor=000)
