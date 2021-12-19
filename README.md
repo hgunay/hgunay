@@ -58,7 +58,7 @@ I :heart: **Clean Code**
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2021 - 17 December, 2021
+Week: 12 December, 2021 - 18 December, 2021
 
 Other        2 hrs 44 mins   ████████▒░░░░░░░░░░░░░░░░   32.94 % 
 Blazor       2 hrs 3 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.85 % 
