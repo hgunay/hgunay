@@ -58,7 +58,7 @@ I :heart: **Clean Code**
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-From: 15 February, 2022 - To: 22 February, 2022
+From: 16 February, 2022 - To: 23 February, 2022
 
 C#           3 hrs 37 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.14 % 
 Blazor       3 hrs 37 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.10 % 
