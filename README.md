@@ -59,13 +59,11 @@ I :heart: **Clean Code**
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 May 2022 - To: 19 May 2022
+From: 13 May 2022 - To: 20 May 2022
 
-C#           3 hrs 10 mins   █████████░░░░░░░░░░░░░░░░   35.35 %
-JavaScript   2 hrs 35 mins   ███████▒░░░░░░░░░░░░░░░░░   28.83 %
-Blazor       1 hr 26 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
-CSS          1 hr 4 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
-Other        31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+C#           4 hrs 31 mins   █████████░░░░░░░░░░░░░░░░   35.59 %
+JavaScript   3 hrs 52 mins   ███████▓░░░░░░░░░░░░░░░░░   30.53 %
+Other        1 hr 28 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
 ```
 
 <!--END_SECTION:waka-->
