@@ -18,7 +18,7 @@ jobs:
           MAX_REPOS: 250
       - name: Commit & Push
         run: |
-          git config user.name hgunay
+          git config user.name ${{ github.repository_owner }}
           git config user.email hakangunay@gmail.com
           git add -A .
           git commit -m "Personal 3D Contributions Images Updated"
