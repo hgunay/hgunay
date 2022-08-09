@@ -59,10 +59,11 @@ I :heart: **Clean Code**
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 July 2022 - To: 03 August 2022
+From: 01 August 2022 - To: 08 August 2022
 
-C#           1 hr 41 mins    ███████████████████▓░░░░░   78.62 %
-Other        23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
+Blazor       1 hr 49 mins    ██████████░░░░░░░░░░░░░░░   39.55 %
+C#           1 hr 47 mins    █████████▓░░░░░░░░░░░░░░░   38.63 %
+Other        48 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.50 %
 ```
 
 <!--END_SECTION:waka-->
