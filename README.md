@@ -54,7 +54,7 @@ I :heart: **Clean Code**
 <a href="https://www.corsair.com/" title="Corsair" target="_blank"><img src="https://simpleicons.org/icons/corsair.svg" height="50px" /></a>&nbsp;
 <a href="https://www.amd.com/en/processors/ryzen" title="AMD Ryzen" target="_blank"><img src="https://simpleicons.org/icons/amd.svg" height="50px" /></a>&nbsp;
 <a href="https://rog.asus.com/us/" title="ASUS ROG" target="_blank"><img src="https://simpleicons.org/icons/asus.svg" height="50px" /></a>&nbsp;
-
+<!--
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 
@@ -66,7 +66,7 @@ Other        1 hr 40 mins    ███████░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hgunay&show_icons=true&theme=dracula" alt="Hakan's github stats" width="420"/>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgunay&layout=compact&theme=dracula" alt="Hakan's top langs" height="165">
@@ -76,6 +76,6 @@ Other        1 hr 40 mins    ███████░░░░░░░░░░
   <img src="https://github-profile-trophy.vercel.app/?username=hgunay&theme=dracula"/>
 </p>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+#![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hgunay)
