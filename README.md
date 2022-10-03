@@ -55,7 +55,7 @@ I :heart: **Clean Code**
 <a href="https://www.amd.com/en/processors/ryzen" title="AMD Ryzen" target="_blank"><img src="https://simpleicons.org/icons/amd.svg" height="50px" /></a>&nbsp;
 <a href="https://rog.asus.com/us/" title="ASUS ROG" target="_blank"><img src="https://simpleicons.org/icons/asus.svg" height="50px" /></a>&nbsp;
 
-📊 **This week I spent my time on**
+<!-- 📊 **This week I spent my time on** -->
 <!--START_SECTION:waka-->
 <!--
 ```text
