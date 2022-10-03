@@ -75,7 +75,8 @@ Other        1 hr 40 mins    ███████░░░░░░░░░░
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hgunay&theme=dracula"/>
 </p>
-
-#![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!--
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+-->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hgunay)
