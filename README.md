@@ -56,7 +56,7 @@ I :heart: **Clean Code**
 <a href="https://rog.asus.com/us/" title="ASUS ROG" target="_blank"><img src="https://simpleicons.org/icons/asus.svg" height="50px" /></a>&nbsp;
 
 <!-- 📊 **This week I spent my time on** -->
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka
 
 ```text
 From: 26 September 2022 - To: 03 October 2022
@@ -65,7 +65,7 @@ C#           4 hrs 15 mins   ████████████████░
 Other        1 hr 52 mins    ███████░░░░░░░░░░░░░░░░░░   28.17 %
 ```
 
-<!--END_SECTION:waka-->
+END_SECTION:waka-->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hgunay&show_icons=true&theme=dracula" alt="Hakan's github stats" width="420"/>&nbsp;
