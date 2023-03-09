@@ -31,6 +31,7 @@ I :heart: **Clean Code**
 
 ![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c%20sharp&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=fff)
 
 #### Front-End
 
