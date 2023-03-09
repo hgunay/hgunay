@@ -25,6 +25,7 @@ I :heart: **Clean Code**
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=fff)
 ![Toggl](https://img.shields.io/badge/-Toggl-E01B22?style=flat-square&logo=Toggl&logoColor=fff)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=fff)
+![ClickUp](https://img.shields.io/badge/-ClickUp-#7B68EE?style=flat-square&logo=ClickUp&logoColor=fff)
 
 #### Back-End
 
