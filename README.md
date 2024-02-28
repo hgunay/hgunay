@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/hgunay/)](https://www.linkedin.com/in/hgunay/)&nbsp;
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=fff&link=https://medium.com/@hakangunay)](https://medium.com/@hakangunay)&nbsp;
 
-:computer: I'm a Full Stack Developer and Team Leader from **Ankara, Turkey** <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/turkiye.png" width="20" />
+:computer: I'm a Software Developer from **Ankara, Turkey** <img src="https://raw.githubusercontent.com/hgunay/hgunay/master/images/turkiye.png" width="20" />
 
 I :heart: **Clean Code** 
 
@@ -17,32 +17,18 @@ I :heart: **Clean Code**
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff)
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=Microsoft%20Azure&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff)
 
 ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=fff)
 ![JetBrains](https://img.shields.io/badge/-Jetbrains-000000?style=flat-square&logo=Jetbrains&logoColor=fff)
 ![Telerik](https://img.shields.io/badge/-Telerik-5CE500?style=flat-square&logo=Progress&logoColor=000)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=fff)
-![Toggl](https://img.shields.io/badge/-Toggl-E01B22?style=flat-square&logo=Toggl&logoColor=fff)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=fff)
 ![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=flat-square&logo=ClickUp&logoColor=fff)
 
 #### Back-End
 
 ![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c%20sharp&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=fff)
-
-#### Front-End
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=fff)
-![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=Blazor&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=fff)
-
 
 #### Databases
 
