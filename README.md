@@ -15,6 +15,10 @@ I :heart: **Clean Code**
 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=fff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20Idea-000000?style=flat-square&logo=IntelliJ%20Idea&logoColor=fff)
+![GoLand](https://img.shields.io/badge/-goland-000000?style=flat-square&logo=goland&logoColor=fff)
+![Rust Rover](https://img.shields.io/badge/-RustRover-000000?style=flat-square&logo=RustRover&logoColor=fff)
+
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=Microsoft%20Azure&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 
@@ -28,7 +32,9 @@ I :heart: **Clean Code**
 #### Back-End
 
 ![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c%20sharp&logoColor=fff)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/-spring%20boot-6DB33F?style=flat-square&logo=spring%20boot&logoColor=fff)
 
 #### Databases
 
@@ -37,12 +43,6 @@ I :heart: **Clean Code**
 ![Mongo](https://img.shields.io/badge/-Mongo-47A248?style=flat-square&logo=Mongodb&logoColor=fff)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
 ![Elastic](https://img.shields.io/badge/-Elastic%20Search-005571?style=flat-square&logo=ElasticSearch&logoColor=fff)
-
-#### Environment
-
-<a href="https://www.corsair.com/" title="Corsair" target="_blank"><img src="https://simpleicons.org/icons/corsair.svg" height="50px" /></a>&nbsp;
-<a href="https://www.amd.com/en/processors/ryzen" title="AMD Ryzen" target="_blank"><img src="https://simpleicons.org/icons/amd.svg" height="50px" /></a>&nbsp;
-<a href="https://rog.asus.com/us/" title="ASUS ROG" target="_blank"><img src="https://simpleicons.org/icons/asus.svg" height="50px" /></a>&nbsp;
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hgunay&theme=dracula"/>
