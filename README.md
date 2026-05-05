@@ -17,15 +17,8 @@ I :heart: **Clean Code**
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20Idea-000000?style=flat-square&logo=IntelliJ%20Idea&logoColor=fff)
 ![GoLand](https://img.shields.io/badge/-goland-000000?style=flat-square&logo=goland&logoColor=fff)
 
-![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=Microsoft%20Azure&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
-
 ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=fff)
 ![JetBrains](https://img.shields.io/badge/-Jetbrains-000000?style=flat-square&logo=Jetbrains&logoColor=fff)
-![Telerik](https://img.shields.io/badge/-Telerik-5CE500?style=flat-square&logo=Progress&logoColor=000)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=fff)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=fff)
-![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=flat-square&logo=ClickUp&logoColor=fff)
 
 #### Back-End
 
